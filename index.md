@@ -24,14 +24,14 @@ We intend to invest the revenue from notary node operations in growing the Komod
 ### [](#notary-nodes-regions)Regions:
 
 * Southern Hemisphere
-  * RAddress (BTCD): RH1vUjh6JBX7dpPR3C89U8hzErp1uoa2by
-  * BTCPUBKEY: 025c6e94877515dfd7b05682b9cc2fe4a49e076efe291e54fcec3add78183c1edb
+  * RAddress (BTCD): `RH1vUjh6JBX7dpPR3C89U8hzErp1uoa2by`
+  * BTCPUBKEY: `025c6e94877515dfd7b05682b9cc2fe4a49e076efe291e54fcec3add78183c1edb`
 * North America
-  * RAddress (BTCD): RV8Khq8SbYQALx9eMQ8meseWpFiZS8seL1
-  * BTCPUBKEY: 02957fd48ae6cb361b8a28cdb1b8ccf5067ff68eb1f90cba7df5f7934ed8eb4b2c
+  * RAddress (BTCD): `RV8Khq8SbYQALx9eMQ8meseWpFiZS8seL1`
+  * BTCPUBKEY: `02957fd48ae6cb361b8a28cdb1b8ccf5067ff68eb1f90cba7df5f7934ed8eb4b2c`
 * Europe
-  * RAddress (BTCD): RTF4GvjePY4YUy3M8iwkGZfEor2p5zFkbo
-  * BTCPUBKEY: 03cbc8ec2a44d61fb60bedd04b7a96c8508ca0e6381873d2b908a5d0f78f5f1f9e
+  * RAddress (BTCD): `RTF4GvjePY4YUy3M8iwkGZfEor2p5zFkbo`
+  * BTCPUBKEY: `03cbc8ec2a44d61fb60bedd04b7a96c8508ca0e6381873d2b908a5d0f78f5f1f9e`
 
 ## [](#who-we-are)Who we are
 
