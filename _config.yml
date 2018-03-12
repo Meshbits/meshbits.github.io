@@ -1,13 +1,14 @@
 title: Team Meshbits
-#email:
 description: >- # this means to ignore newlines until "baseurl:"
   This document is to describe who we are, our passion and commitment to the
   Komodo project.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  Meshbits
 theme: jekyll-theme-hacker
 # Build settings
 markdown: kramdown
 show_downloads: false
-google_analytics:
+#google_analytics:
+github_username:  Meshbits
+#email:
+github: [metadata]
