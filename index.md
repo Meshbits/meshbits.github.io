@@ -35,13 +35,13 @@ We intend to invest the revenue from notary node operations in growing the Komod
 
 ## [](#who-we-are)Who we are
 
-### [](#satinder-grewal)Satinder Grewal
+### [Satinder Grewal]
 
 Seasoned veteran in Technology and BlockChain space capable of wearing multiple hats simultaneously who has been a Linux Administrator, Software Developer, Penetration Tester, Business Analyst in previous roles.
 Satinder has been involved with the Komodo-Platform since the **Supernet days** and has now influenced Nitin in joining forces.
 Based in New Zealand now.
 
-### [](#nitin-sharma)Nitin Sharma
+### [Nitin Sharma]
 
 Seasoned Solutions Architect/DevOps Engineer working in a PCI, ISM (Information Security Manual produced by Australian Signals Directorate) environment who in day-to-day work wears the hat of an Iteration Manager, AWS Architect, DevOps Lead, the-guy-who-simplifies-tech-jargon-for-business-people. Nitin is relatively a newcomer in the Komodo Platform space but is catching up fast.
 Based in Australia now.
