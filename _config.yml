@@ -1,6 +1,6 @@
 title: Team Meshbits
 description: >- # this means to ignore newlines until "baseurl:"
-  This document is to describe who we are, our passion and commitment to the
+  This document is to express who we are, our passion and commitment to the
   Komodo project.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
