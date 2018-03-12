@@ -52,7 +52,7 @@ Satinder Grewal has a proven record of going for his passion even if it means je
 Satinder has spent countless hours sacrificing sleep and social life while working full time to ramp up his knowledge on blockchain technology.
 During this time, he has been quite active in public channels and asked necessary questions while trying his best to help others out.
 
-Nitin Sharma has a more risk-averse approach to following his passion but capable of seeing opportunities. Nitin has previously donated his time for a non-profit organisation which helps educate children who reside in slums in India.
+Nitin Sharma has a more risk-averse approach to following his passion but capable of seeing opportunities. Nitin has previously donated his time for a non-profit organisation which helps educate children who reside in the slums in India.
 
 ## [](#notary-nodes)Notary Nodes
 
