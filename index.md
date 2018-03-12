@@ -10,7 +10,7 @@ layout: default
 
 ## [](#tl-dr)TL;DR
 
-[Satinder Grewal] and [Nitin Sharma] are joining forces under the team name **Meshbits** to help grow and support **[Komodo community]**.
+[Satinder Grewal] and [Nitin Sharma] are teaming up under the name **Meshbits** to help grow and support the **[Komodo community]**.
 
 Satinder has been contributing by solving various problems for the community, by dissipating knowledge and by delivering on his promises such as BarterDex.
 And now by using his personal funds for running **electrumx servers** and notary nodes.
@@ -38,7 +38,7 @@ We intend to invest the revenue from notary node operations in growing the Komod
 ### [Satinder Grewal]
 
 Seasoned veteran in Technology and BlockChain space capable of wearing multiple hats simultaneously who has been a Linux Administrator, Software Developer, Penetration Tester, Business Analyst in previous roles.
-Satinder has been involved with the Komodo-Platform since the **Supernet days** and has now influenced Nitin in joining forces.
+Satinder has been involved with the Komodo-Platform since the **Supernet days** and has now influenced Nitin in teaming up.
 Based in New Zealand now.
 
 ### [Nitin Sharma]
@@ -50,9 +50,9 @@ Based in Australia now.
 Satinder Grewal has a proven record of going for his passion even if it means jeopardising means of survival; [watch this video].
 
 Satinder has spent countless hours sacrificing sleep and social life while working full time to ramp up his knowledge on blockchain technology.
-During this time, he has quite active in public channels and asked necessary questions while trying his best to help others out.
+During this time, he has been quite active in public channels and asked necessary questions while trying his best to help others out.
 
-Nitin Sharma has a more risk-averse approach to following his passion but capable of seeing opportunities. Nitin has previously donated his time for a non-profit organisation which helps educate slum kids in Indian.
+Nitin Sharma has a more risk-averse approach to following his passion but capable of seeing opportunities. Nitin has previously donated his time for a non-profit organisation which helps educate children who reside in slums in India.
 
 ## [](#notary-nodes)Notary Nodes
 
