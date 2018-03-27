@@ -95,3 +95,6 @@ For more details on what Meshbits is doing and plans to improve on Komodo Platfo
 * Satinder Grewal is a developer in Komodo Platform team.
 * Satinder Grewal's `grewal_SH` Notary Node got auto re-elected from previous Notary Nodes who performed as top 30 Nodes with high Notarisation counts.
 
+<br />
+<br />
+
