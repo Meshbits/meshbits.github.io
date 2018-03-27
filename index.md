@@ -23,11 +23,11 @@ We intend to invest the revenue from notary node operations in growing the Komod
 
 ### [](#notary-nodes-regions)Regions:
 
-* Southern Hemisphere
+* NA (North America)
   * Komodo/Vote address: `RH1vUjh6JBX7dpPR3C89U8hzErp1uoa2by`
-* Asia
+* AR (Asia Region)
   * Komodo/Vote address: `RV8Khq8SbYQALx9eMQ8meseWpFiZS8seL1`
-* Europe
+* EU (Europe)
   * Komodo/Vote address: `RTF4GvjePY4YUy3M8iwkGZfEor2p5zFkbo`
 
 ## [](#who-we-are)Who we are
