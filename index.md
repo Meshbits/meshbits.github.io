@@ -30,6 +30,10 @@ We intend to invest the revenue from notary node operations in growing the Komod
 * EU (Europe)
   * Komodo/Vote address: `RTF4GvjePY4YUy3M8iwkGZfEor2p5zFkbo`
 
+#### ANONYMOUS Vote address:
+
+`zcdYdDGRuR6VhVEFXoVoKUidKgsmyxiq3s5yEbM4p7cktbfqinYpH18pAhSogTXEBDUyRP5MLhBnCHjkckxxvSvVvHgXCTi`
+
 ## [](#who-we-are)Who we are
 
 ### [Satinder Grewal]
