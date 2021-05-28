@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Satinder Grewal]: https://www.linkedin.com/in/grewalsatinder
+[Satinder Grewal]: https://twitter.com/satindergrewal
 [Nitin Sharma]: https://www.linkedin.com/in/nitinsharma408
 [Komodo Platform]: https://komodoplatform.com/
 [Komodo community]: https://komodoplatform.com/
@@ -12,49 +12,22 @@ layout: default
 
 [Satinder Grewal] and [Nitin Sharma] are teaming up under the name **Meshbits** to help grow and support the **[Komodo community]**.
 
-Satinder has been contributing by solving various problems for the community, by dissipating knowledge and by delivering on his promises such as BarterDex.
-And now by using his personal funds for running **electrumx servers** and notary nodes.
+Satinder has been contributing by solving various problems for the [Komodo Platform](https://komodoplatform.com) community, by dissipating knowledge and by delivering on his promises such as [BarterDEX](https://github.com/komodoplatform/barterDEX/). And these days he's using his time, money and efforts to help the Komodo ecosystem projects such as [CHIPS](https://chips.cash/), [Pirate Chain](https://pirate.black/) and [Verus](https://verus.io) wherever possiblly he can, along with making development toolkits and frameworks to help the developer community of Komodo ecosystem, such as [kmdgo](https://github.com/satindergrewal/kmdgo), [saplinglib](https://github.com/satindergrewal/saplinglib/), [Khoji Explorer](https://github.com/meshbits/khoji/).
 
-Nitin has volunteered his time to setup stable, automated quality infrastructure for the network.
+Nitin volunteered his time to setup stable, automated quality infrastructure for the network after both Nitin and Satinder won a Notary Node spot in the Komodo Notary Node 2018 elections.
 
-We intend to invest the revenue from notary node operations in growing the Komodo echo system and therefore **we are contesting in Notary Node 2018 elections.**
-
-## Election Details
-
-### [](#contact)Contact:
-
-* slack
-    * Satinder Grewal: @grewalsatinder
-    * Nitin Sharma: @ns408
-
-### [](#notary-nodes-regions)Regions:
-
-* NA
-  * Komodo/Vote address: `RH1vUjh6JBX7dpPR3C89U8hzErp1uoa2by`
-  * btcpubkey: `025c6e94877515dfd7b05682b9cc2fe4a49e076efe291e54fcec3add78183c1edb`
-* AR
-  * Komodo/Vote address: `RV8Khq8SbYQALx9eMQ8meseWpFiZS8seL1`
-  * btcpubkey: `02957fd48ae6cb361b8a28cdb1b8ccf5067ff68eb1f90cba7df5f7934ed8eb4b2c`
-* EU
-  * Komodo/Vote address: `RTF4GvjePY4YUy3M8iwkGZfEor2p5zFkbo`
-  * btcpubkey: `03cbc8ec2a44d61fb60bedd04b7a96c8508ca0e6381873d2b908a5d0f78f5f1f9e`
-
-#### ANONYMOUS Vote address:
-
-`zcdYdDGRuR6VhVEFXoVoKUidKgsmyxiq3s5yEbM4p7cktbfqinYpH18pAhSogTXEBDUyRP5MLhBnCHjkckxxvSvVvHgXCTi`
+Long before Meshbits Ltd formed as a legal entity, Satinder has been helping [Komodo Platform](https://komodoplatform.com) project from it's early inception days since 2015 onwards to this day, and we intend to keep investing our time, money, efforts and valuable resources to help grow the [Komodo Platform](https://komodoplatform.com) ecosystem to reach more user-base.
 
 ## [](#who-we-are)Who we are
 
 ### [Satinder Grewal]
 
 Seasoned veteran in Technology and BlockChain space capable of wearing multiple hats simultaneously who has been a Linux Administrator, Software Developer, Penetration Tester, Business Analyst in previous roles.
-Satinder has been involved with the Komodo-Platform since the **Supernet days** and has now influenced Nitin in teaming up.
-Based in New Zealand.
+Satinder has been involved with the [Komodo Platform](https://komodoplatform.com) since the **[SuperNET](https://bitcointalk.org/index.php?topic=762346.0) days** and has worked with Nitin as a team for managing the Komodo Notary Node in 2018 season. Based in New Zealand.
 
 ### [Nitin Sharma]
 
-Seasoned Solutions Architect/DevOps Engineer working in a PCI, ISM (Information Security Manual produced by Australian Signals Directorate) environment who in day-to-day work wears the hat of an Iteration Manager, AWS Architect, DevOps Lead, the-guy-who-simplifies-tech-jargon-for-business-people. Nitin is relatively a newcomer in the Komodo Platform space but is catching up fast.
-Based in Australia.
+Seasoned Solutions Architect/DevOps Engineer working in a PCI, [ISM](https://www.cyber.gov.au/acsc/view-all-content/ism) (Information Security Manual produced by Australian Signals Directorate) environment who in day-to-day work wears the hat of an Iteration Manager, AWS Architect, DevOps Lead, the-guy-who-simplifies-tech-jargon-for-business-people. Nitin worked as Komodo Platform Notary Node operator in 2018 season and is very knowledgable with his blockchain stack he worked with. Based in Australia.
 
 ## [](#commitment)Commitment
 Satinder Grewal has a proven record of going for his passion even if it means jeopardising means of survival; [watch this video].
@@ -64,36 +37,11 @@ During this time, he has been quite active in public channels and asked necessar
 
 Nitin Sharma has a more risk-averse approach to following his passion but capable of seeing opportunities. Nitin has previously donated his time for a non-profit organisation which helps educate children who reside in the slums in India.
 
-## [](#notary-nodes)Notary Nodes
-
-* Our focus is on creating a scalable, stable platform so we are using a combination of Cloud and Datacenter based Servers
-* Two proficient die-hard automation fans looking after the servers means better stable service.
-
 ## [](#what-we-offer)What Meshbits Offer
 
-At Meshbits, we mainly think from a **developer's point of view** and understand where Komodo Platform has room for improvement. Having the capability to do development and create tools and applications to improve the Komodo Platform allows Meshbits team to use it's skillset and funds in the most efficient way possible.
-
-Meshbits will use all the earnings made from Komodo Platform Notary Nodes mining for the following:
-
-* Scripts and toolset for Developers which will help creating independent projects from scratch using Komodo Platform technologies.
-* Creating Decentralised Applications based on Komodo Platform technologies.
-* Contributing to improve Komodo Platform Infrastructure experience wherever possible. The recent example is the addition of SPV servers which are being voluntarily provided to the Komodo community.
-* Creating & maintenance of **Developer oriented documentation** for Komodo Platform technologies.
-
-Instead of offering percentage of our Notary Nodes to our voters, we use these funds to increase the value of Komodo tokens by dedicating our skillset to improve Komodo Platform. That itself increases the underlying value of all KMD cryptocurrency.
+At Meshbits, we mainly think from a **developer's point of view** and understand where [Komodo Platform](https://komodoplatform.com) has room for improvement. Having the capability to do development and create tools and applications to improve the [Komodo Platform](https://komodoplatform.com) allows Meshbits team to use it's skillset and funds in the most efficient way possible.
 
 It's the developer made applications and services which put a cryptocurrency in demand, due to their use cases. And Meshbits team has the capability to deliver what we promise.
-
-We hope the Komodo Platform users will chose Meshbits and give us the opportunity to not just give the value to our voters only but to the entire Komodo community.
-
-For more details on what Meshbits is doing and plans to improve on Komodo Platform, please read this blog post from Satinder Grewal:
-
-[Satinder Grewal: Improving Komodo Platform](https://medium.com/@satindergrewal/improving-komodo-platform-37c684991374)
-
-## [](#disclosure)Disclosure
-
-* Satinder Grewal is a developer in Komodo Platform team.
-* Satinder Grewal's `grewal_SH` Notary Node got auto re-elected from previous Notary Nodes who performed as top 30 Nodes with high Notarisation counts.
 
 <br />
 <br />
