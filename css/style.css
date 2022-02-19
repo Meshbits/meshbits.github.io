@@ -1,0 +1,799 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400&display=swap');
+
+:root {
+    --primary-color: #121328;
+    --secondary-color: #d4408e;
+    --third-color: #6DE0F6;
+    --dark-color: #0c0d1c;
+    --very-dark-color: #010101;
+    --green-color: #107c28;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Kanit', sans-serif;
+    color: #fff;
+}
+
+ui,
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 10px 0;
+}
+
+p {
+    margin: 10px 0;
+    font-weight: 300;
+}
+
+img {
+    max-width: 100%;
+}
+.hide{
+    display: none;
+}
+/* navbar */
+.navbar {
+    background-color: var(--primary-color);
+    height: 126px;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    top: 0;
+}
+
+.navbar ul {
+    display: flex;
+}
+
+.navbar ul a {
+    padding: 0 18px;
+    margin: 0 5px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.navbar ul a:hover {
+    background-color: #d4408e;
+    padding: 10px 18px;
+    border-radius: 8px;
+}
+
+.navbar .flex {
+    justify-content: space-between;
+}
+
+/* hide the link that should open and close the navbar on small screens */
+.navbar .icon {
+    display: none;
+}
+
+/* showcase */
+.showcase {
+    height: 830px;
+    background: url('../images/banner-element.svg') no-repeat bottom center;
+    background-color: var(--primary-color);
+    margin-top: 125px;
+}
+
+.showcase-text {
+    margin-top: 120px;
+    margin-left: 64px;
+}
+
+.showcase h1 {
+    font-size: 65px;
+    line-height: 1.1;
+}
+
+/* portfolio */
+.portfolio {
+    background-color: var(--dark-color);
+}
+
+.portfolio .grid-3 {
+    align-items: flex-start;
+    gap: 144px 60px;
+    padding: 0 60px;
+}
+
+.portfolio .card {
+    background: linear-gradient(180deg, rgba(63, 65, 101, 1) 0%, rgba(63, 65, 101, 0) 66%);
+    min-height: 448px;
+    border-radius: 15px;
+    padding: 24px 30px;
+    position: relative;
+}
+
+.portfolio .card h3 {
+    font-size: 38px;
+}
+
+.portfolio .card p {
+    font-size: 18px;
+}
+
+.portfolio .card h4 {
+    font-size: 14px;
+    color: var(--third-color);
+}
+
+.portfolio .card p:nth-last-child(2) {
+    font-size: 14px;
+}
+
+.portfolio .card img {
+    position: absolute;
+    bottom: 0;
+    left: 48%;
+}
+
+/* about us */
+.about-us {
+    background: url('../images/about-bg.svg') no-repeat center;
+    background-size: cover;
+}
+
+.about-us p {
+    padding: 0 60px;
+    font-size: 28px;
+    text-align: justify;
+}
+
+.about-us .container p:first-of-type {
+    margin-bottom: 50px;
+}
+
+/* meet our team */
+.team {
+    background-color: var(--dark-color);
+}
+
+.team .grid {
+    grid-template-columns: 30% 67%;
+    gap: 30px;
+    padding: 0 60px;
+    align-items: flex-start;
+    margin: 200px 0 0;
+}
+
+.team .grid:first-of-type {
+    margin: 0;
+}
+
+.team .grid img {
+    border-radius: 24px;
+}
+
+.team .grid ul.flex {
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+.team .grid ul.flex li {
+    margin-left: 20px;
+}
+
+.team .grid>div:last-child h3 {
+    font-size: 48px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.team .grid>div:last-child h4 {
+    color: var(--third-color);
+    text-transform: uppercase;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.team .grid>div:last-child p {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+/* meet our team > flip section*/
+.team .grid.section-flip {
+    grid-template-columns: 67% 30%;
+}
+
+.team .grid.section-flip>div:first-child {
+    order: 2;
+}
+
+.team .grid.section-flip ul.flex {
+    justify-content: flex-start;
+}
+
+.team .grid.section-flip ul.flex li {
+    margin-left: 0;
+    margin-right: 20px;
+}
+
+.team .grid.section-flip>div:last-child h3,
+.team .grid.section-flip>div:last-child h4 {
+    text-align: right;
+}
+
+.team .grid.section-flip>div:last-child p {
+    text-align: justify;
+}
+
+
+/* contact form */
+.contact-form {
+    background: url('../images/contact-form-bg.jpg') no-repeat center;
+    background-size: cover;
+}
+
+.contact-form .container {
+    padding-right: 0px;
+}
+
+.contact-form p.flex {
+    height: auto;
+}
+
+.contact-form p.flex img {
+    margin-right: 12px;
+    width: 18px;
+}
+
+.contact-form .grid {
+    align-items: flex-start;
+    gap: 0;
+}
+
+.contact-form .grid .form-text {
+    padding: 174px 0 0;
+}
+
+.contact-form .grid .form-text h3 {
+    font-size: 34px;
+}
+
+.contact-form .grid .form-text span {
+    font-size: 18px;
+    color: var(--secondary-color);
+    margin: 20px 0 44px;
+    display: block;
+}
+
+.contact-form .grid ul.flex {
+    justify-content: flex-start;
+    margin-top: 20px;
+}
+
+.contact-form .grid ul.flex li {
+    margin-right: 20px;
+}
+
+.contact-form .grid form {
+    background-color: var(--dark-color);
+    height: 100%;
+    padding: 200px 90px 130px;
+}
+
+.contact-form .grid form h2 {
+    display: none;
+}
+
+.contact-form .grid form p.form-alert.flex {
+    justify-content: center;
+}
+
+.contact-form .grid form .form-control {
+    margin: 12px 0 30px;
+}
+
+.contact-form .grid form input[type='text'],
+.contact-form .grid form input[type='email'],
+.contact-form .grid form input[type='number'],
+textarea {
+    font-family: 'Kanit';
+    border: 0;
+    width: 100%;
+    padding: 15px;
+    font-size: 20px;
+    border-radius: 8px;
+}
+
+.contact-form .grid form input:focus,
+.contact-form .grid form textarea:focus {
+    outline: none;
+}
+
+.contact-form .grid form p.flex {
+    justify-content: left;
+}
+
+/* footer */
+footer {
+    background-color: var(--very-dark-color);
+    padding: 100px 0 80px;
+}
+
+footer nav {
+    padding: 28px 0;
+}
+
+footer nav .flex {
+    flex-wrap: wrap;
+}
+
+footer ul li {
+    margin: 10px;
+}
+
+footer nav ul li {
+    padding: 0 30px;
+    font-size: 20px;
+}
+
+footer nav ul li a:hover {
+    text-decoration: underline;
+}
+
+footer p {
+    font-size: 12px;
+}
+
+
+/*********************************************************************************/
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+
+    /* Showcase */
+
+    .showcase-text {
+        width: 360px;
+    }
+
+    .showcase-text .btn {
+        transform: scale(0.9);
+        margin-top: 20px;
+    }
+
+    .showcase h1 {
+        font-size: 50px;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+    /* Showcase */
+    .showcase-text {
+        width: 474px;
+    }
+
+    .showcase-text .btn {
+        transform: none;
+        margin-top: 30px;
+    }
+
+    .showcase h1 {
+        font-size: 65px;
+    }
+
+
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {}
+
+
+/*********************************************************************************/
+
+/* `sm` applies to x-small devices (portrait phones, less than 576px) */
+@media only screen and (max-width: 575.98px) {
+
+    /* Navbar */
+    .navbar {
+        height: 90px;
+    }
+
+    .navbar .logo img {
+        width: 90%;
+    }
+
+    .navbar ul {
+        display: none;
+    }
+
+    .navbar a.icon {
+        display: block;
+        font-size: 24px;
+        margin-top: -4px;
+    }
+
+    .navbar.responsive ul {
+        background-color: #121328;
+        display: inline-block;
+        padding: 10px 18px;
+        position: fixed;
+        z-index: 2;
+        width: 100%;
+        height: 90vh;
+        top: 90px;
+        left: 0;
+    }
+
+    .navbar.responsive ul a {
+        display: block;
+        padding: 12px 18px;
+        text-align: center;
+        font-size: 28px;
+        font-weight: 400;
+    }
+
+    /* Showcase */
+
+    .showcase {
+        background-size: 200% 100%;
+        height: 722px !important;
+        margin-top: 90px;
+        background-position: -238px 100px;
+    }
+
+    .showcase-text {
+        width: 286px;
+        text-align: center;
+        margin-top: 95px !important;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 100%;
+    }
+
+    .showcase-text .btn {
+        transform: scale(0.8);
+        margin-top: 26px;
+        border-radius: 18px;
+        padding: 11px 28px;
+    }
+
+    .showcase h1 {
+        font-size: 40px;
+    }
+
+    /* portfolio */
+    .portfolio .grid-3 {
+        grid-template-columns: 1fr !important;
+        gap: 0 !important;
+        padding: 0 16px !important;
+    }
+
+    .portfolio .card {
+        margin-bottom: 90px;
+        background: linear-gradient(180deg, rgba(63, 65, 101, 1) 0%, rgba(63, 65, 101, 0) 84%);
+        padding: 14px 26px;
+    }
+
+    .portfolio .card:last-child {
+        margin-bottom: 0;
+    }
+
+    .portfolio .card h3 {
+        font-size: 26px !important;
+    }
+
+    .portfolio .card p {
+        font-size: 14px !important;
+    }
+
+    /* about us */
+    .about-us {
+        background-position: -254px;
+    }
+
+    .about-us p {
+        padding: 0;
+        font-size: 18px !important;
+    }
+
+    /* meet our team */
+
+    .team .grid div:first-child {
+        display: grid;
+        grid-template-columns: 60% 40%;
+        align-items: flex-end;
+        margin-bottom: 20px;
+    }
+
+    .team .grid ul.flex {
+        display: block;
+        height: auto;
+    }
+
+    .team .grid ul.flex li {
+        margin-top: 16px;
+    }
+
+    .team .grid>div:last-child h3 {
+        font-size: 24px !important;
+    }
+
+    .team .grid>div:last-child h4,
+    .team .grid>div:last-child p {
+        font-size: 14px !important;
+    }
+
+    .team .grid,
+    .team .grid.section-flip {
+        grid-template-columns: 1fr;
+        gap: 0;
+        padding: 0;
+        margin: 120px 0 0 !important;
+    }
+
+    .team .grid.section-flip>div:last-child h3,
+    .team .grid.section-flip>div:last-child h4 {
+        text-align: left;
+    }
+
+    .team .grid.section-flip>div:last-child p {
+        text-align: justify;
+    }
+
+    .team .grid.section-flip ul.flex {
+        justify-content: flex-end;
+    }
+
+    .team .grid.section-flip ul.flex li {
+        margin-left: 20px;
+        margin-right: 0;
+    }
+
+    .team .grid.section-flip>div:first-child {
+        order: 0;
+    }
+
+    /* contact form */
+    .contact-form .section-heading {
+        margin-bottom: 60px;
+    }
+
+    /* footer */
+    footer {
+        padding: 80px 0 46px;
+    }
+
+    footer ul li {
+        margin: 4px 8px;
+    }
+
+
+    footer nav ul.flex {
+        flex-wrap: wrap;
+    }
+
+    footer nav ul li {
+        padding: 0 0px;
+        font-size: 16px;
+    }
+
+}
+
+/* `md` applies to small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+
+    /* contact form */
+    .contact-form .container {
+        padding-right: 40px;
+    }
+
+    .contact-form .grid {
+        gap: 20px;
+        grid-template-columns: 1fr !important;
+    }
+
+    .contact-form .grid .form-text {
+        text-align: center;
+        order: 2;
+        padding: 0;
+    }
+
+    .contact-form .grid .form-text h2 {
+        display: none;
+    }
+
+    .contact-form .grid .form-text h3 {
+        font-size: 22px !important;
+    }
+
+    .contact-form .grid .form-text span {
+        font-size: 16px !important;
+        margin: 14px 0 40px;
+    }
+
+    .contact-form .grid ul.flex {
+        justify-content: center;
+        margin-bottom: 100px !important;
+    }
+
+    .contact-form .grid ul.flex li {
+        margin: 0 10px;
+    }
+
+    .contact-form .grid form {
+        background-color: inherit;
+        padding: 0 !important;
+        margin-bottom: 70px;
+    }
+
+    .contact-form .grid form h2 {
+        display: inherit;
+        margin-top: 160px;
+        text-align: center;
+    }
+
+    .contact-form .grid form input[type='text'],
+    .contact-form .grid form input[type='email'],
+    .contact-form .grid form input[type='number'],
+    textarea {
+        padding: 8px 15px !important;
+        font-size: 18px;
+    }
+
+    .contact-form .grid form p.flex {
+        justify-content: center !important;
+    }
+
+    .contact-form .grid form p.flex .btn {
+        font-size: 18px !important;
+        padding: 12px 44px !important;
+        border-radius: 12px !important;
+    }
+
+
+}
+
+/* `lg` applies to medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+
+    /* showcase */
+    .showcase {
+        height: 768px;
+    }
+
+    .showcase-text {
+        margin-top: 76px;
+    }
+
+    /* portfolio */
+    .portfolio .grid-3 {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 110px 40px;
+        padding: 0 30px;
+    }
+
+    .portfolio .card {
+        min-height: 360px;
+    }
+
+    .portfolio .card h3 {
+        font-size: 30px;
+    }
+
+    .portfolio .card p {
+        font-size: 15px;
+    }
+
+    .portfolio .card h4 {
+        font-size: 13px;
+    }
+
+    .portfolio .card p:nth-last-child(2) {
+        font-size: 13px;
+    }
+
+    /* about us */
+    .about-us p {
+        font-size: 24px;
+    }
+
+    /* meeet our team */
+    .team .grid {
+        margin: 140px 0 0;
+    }
+
+    .team .grid>div:last-child h3 {
+        font-size: 36px;
+    }
+
+    .team .grid>div:last-child h4,
+    .team .grid>div:last-child p {
+        font-size: 16px;
+    }
+
+    /* contact form */
+    .contact-form .grid {
+        grid-template-columns: 34% 66%;
+    }
+
+    .contact-form .grid .form-text h3 {
+        font-size: 26px;
+    }
+
+    .contact-form .grid .form-text span {
+        font-size: 17px;
+        margin: 14px 0 40px;
+    }
+
+    .contact-form .grid form {
+        padding: 200px 60px 130px;
+    }
+
+    .contact-form .grid form input[type='text'],
+    .contact-form .grid form input[type='email'],
+    .contact-form .grid form input[type='number'],
+    textarea {
+        padding: 12px 15px;
+    }
+}
+
+/* `xl` applies to large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {}
+
+/* `xxl` applies to x-large devices (large desktops, less than 1400px) */
+@media (max-width: 1399.98px) {}
+
+
+/* CUSTOM CSS START */
+.team-roles-ul {
+    padding-left: 15px;
+    margin-left: 15px;
+}
+
+/* .team-roles-ul li {
+    list-style-type: disc;
+} */
+
+.team-roles-ul li::before {
+    content: "\25CF";
+    color: #d4408e;
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+    margin-right: 0.5em;
+}
+
+.team-r {
+    text-align: right;
+}
+
+.team-a {
+    text-decoration: underline;
+    color: var(--third-color);
+}
+/* CUSTOM CSS END */
